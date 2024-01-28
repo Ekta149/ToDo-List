@@ -107,6 +107,7 @@ li:hover{
 @media(max-width:415px){
     h1{
         font-size: 30px;
+         text-decoration:2px wavy underline ;
     }
 
     sub{
