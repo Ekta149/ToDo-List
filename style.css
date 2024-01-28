@@ -102,3 +102,37 @@ li:hover{
    
 }
 
+/**Responsive**/
+
+@media(max-width:415px){
+    h1{
+        font-size: 30px;
+    }
+
+    sub{
+        font-size: 10px;
+    }
+
+    .task{
+        width: 170px;
+        height: 25px;
+        margin-left: 20%;
+    }
+
+    .btn{
+        padding: 5px 8px;
+    }
+
+    li{
+        font-size: 20px;
+        margin-left: 35%;
+        margin-top: 18px;
+    }
+
+        .Done{
+            font-size: 15px;
+        }
+}
+
+
+
